@@ -1,4 +1,4 @@
-23
+445
 import math
 
 
@@ -7,7 +7,7 @@ def q1():
     One = input("Input an integer: ")
     One = int(One)
     One = One + 3 
-    print = ("The integer is:", One)
+    print("The integer is: ", One)
 def q2():
   #Write Assignment code here
    One = input("Input a number: ")
@@ -34,7 +34,7 @@ def q5():
   Set = input("Input an integer: ")
   Set = (int(Set))
   Set = Set+5
-  print("Your number is :+5", Set)
+  print("Your number is : ", Set)
 #Comment this code out when running tests
 #Do not comment this out when running your program normally
 
