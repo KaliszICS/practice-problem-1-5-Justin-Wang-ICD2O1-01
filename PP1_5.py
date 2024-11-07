@@ -33,7 +33,7 @@ def q5():
     set1 = input("Input an integer: ")
     set2 = (int(set1))
     set3 = set2 + 5
-    print(set3)
+    print(f"Your number + 5 is {set3}")
     
 #q1()
 #q2()
